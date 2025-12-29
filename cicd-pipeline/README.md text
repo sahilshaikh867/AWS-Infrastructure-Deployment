@@ -1,0 +1,29 @@
+# ⚙️ CI/CD Pipeline Automation
+
+An end‑to‑end **CI/CD pipeline** that takes code from commit → tested → container image → deployed to a server environment.
+
+---
+
+## 🎯 Goal
+
+- No manual SSH & “git pull on server” deployments.  
+- Every change to `main` should:
+  1. Run tests & linting  
+  2. Build a Docker image  
+  3. Push image to a registry  
+  4. Deploy / restart the app container on a target host  
+
+---
+
+## 🧩 Tech Stack (Example)
+
+- **CI**: GitHub Actions (ya Jenkins)
+- **Containerization**: Docker
+- **Registry**: Docker Hub / GHCR
+- **App Host**: Linux VM (Nginx reverse proxy + Docker)
+- **Code**: Any web app (Node/Python/…); focus is on pipeline
+
+---
+
+## 🧱 High‑Level Pipeline
+
