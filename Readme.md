@@ -124,8 +124,8 @@ Structured **cloud cost + security review** for small environments.
 
 ## 📬 Contact
 
-- 💼 LinkedIn: `YOUR_LINKEDIN_USERNAME`  
-- 📧 Email: `youremail@example.com`  
-- 🌐 Portfolio: `https://your-portfolio-link`  
+- 💼 LinkedIn: `sahilshaikh`  
+- 📧 Email: `sahilshaikhcse2gmail.com`  
+- 🌐 Portfolio: `NA`  
 
 > Feedback, suggestions, or collaboration ideas are always welcome!
